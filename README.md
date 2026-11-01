@@ -259,4 +259,4 @@ This repository serves as the official landing page for Cryptonite. The software
 **Get the most recent version of Cryptonite today!**
 
 ---
-**Last updated:** 2026-10-31 22:03:23 UTC
+**Last updated:** 2026-11-01 01:40:17 UTC
